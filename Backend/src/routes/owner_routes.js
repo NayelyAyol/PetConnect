@@ -3,7 +3,7 @@ import { registro, confirmarMail, recuperarPassword, comprobarTokenPassword, cre
 
 const router = Router()
 
-router.post("/owner/registro", registro)
+router.post("/register", registro)
 router.post("/owner/confirm-mail/:token", confirmarMail)
 router.post("/owner/reset-pasword", recuperarPassword)
 router.get("/owner/reset-password/:token", comprobarTokenPassword)

@@ -14,7 +14,7 @@ import Create from './pages/Create'
 import Update from './pages/Update'
 import Chat from './pages/Chat'
 import Reset from './pages/Reset'
-import Panel from './pages/Panel'
+// import Panel from './pages/Panel'
 
 
 

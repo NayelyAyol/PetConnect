@@ -15,7 +15,7 @@ export const Register = () => {
   const fetchDataBackend = useFetch();
 
   const registerUser = async (dataForm) => {
-    const url = `${import.meta.env.VITE_BACKEND_URL}/registro`;
+    const url = `${import.meta.env.VITE_BACKEND_URL}/register`;
     await fetchDataBackend(url, dataForm, "POST");
   };
 
