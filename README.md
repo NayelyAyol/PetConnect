@@ -20,12 +20,12 @@ Este proyecto fue completado por las siguientes integrantes:
 
 | **Sección** | **Visualización** |
 | :----------- | :-----------: |
-| **Página principal** | <img src="Imagenes/react.png" width="500" height="500"/> | 
-| **Inicio de sesión** | <img src="Imagenes/useState.png" width="500" height="500"/> | 
-| **Registro** | <img src="Imagenes/useEffect.png" width="500" height="500"/> |
-| **Perfil** | <img src="Imagenes/customHook.png" width="500" height="500"/> |
+| **Página principal** | <img src="la.png" width="500" height="500"/> | 
+| **Inicio de sesión** | <img src="i.png" width="500" height="500"/> | 
+| **Registro** | <img src="r.png" width="500" height="500"/> |
+| **Perfil** | <img src="p.png" width="500" height="500"/> |
 
 
 ## 🔗 Link del despliegue en Render
-[![Abrir en Render](https://img.shields.io/badge/Render-Visitar-FFF4B2?style=for-the-badge&logo=render&logoColor=000000)](https://tu-app-en-render.com)
+[![Abrir en Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://frontend-tesis-f.vercel.app)
 
