@@ -26,5 +26,5 @@ Este proyecto fue completado por las siguientes integrantes:
 | **Perfil** | <img src="Imagenes/customHook.png" width="500" height="500"/> |
 
 
-## 🔗 Link del despliegue en Netlify
-[![Ver despliegue en Netlify](https://img.shields.io/badge/Ver%20despliegue%20en%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://fundamentosreactlab.netlify.app/)
+## 🔗 Link del despliegue en Render
+[![Ver despliegue en Render](https://img.shields.io/badge/Ver%20despliegue%20en%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://fundamentosreactlab.netlify.app/)
