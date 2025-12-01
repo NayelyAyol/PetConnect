@@ -27,6 +27,6 @@ Este proyecto fue completado por las siguientes integrantes:
 
 
 
-## 🔗 Link del despliegue en Vercel
-[![Abrir en Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://frontend-tesis-f.vercel.app)
+## 🔗 Link del despliegue en Netlify
+[![Abrir en Netlify](https://img.shields.io/badge/Deploy-Netlify-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)]([https://petconnect-uio.netlify.app/])
 
