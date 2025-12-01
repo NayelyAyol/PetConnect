@@ -23,7 +23,7 @@ Este proyecto fue completado por las siguientes integrantes:
 | **Página principal** | <img src="./la.jpeg" width="500" height="500"/> |
 | **Inicio de sesión** | <img src="./i.jpeg" width="500" height="500"/> |
 | **Registro** | <img src="./r.jpeg" width="500" height="500"/> |
-| **Perfil** | <img src="./p.jpeg" width="500" height="500"/> |
+| **Perfil** | <img src="./per.png" width="500" height="500"/> |
 
 
 
