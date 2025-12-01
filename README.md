@@ -28,5 +28,4 @@ Este proyecto fue completado por las siguientes integrantes:
 
 
 ## 🔗 Link del despliegue en Netlify
-[![Abrir en Netlify](https://img.shields.io/badge/Deploy-Netlify-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)]([https://petconnect-uio.netlify.app/])
-
+[![Abrir en Netlify](https://img.shields.io/badge/Deploy-Netlify-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://petconnect-uio.netlify.app/)
